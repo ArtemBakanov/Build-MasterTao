@@ -1002,7 +1002,7 @@ footer {
     display: block;
     width: 85px;
     height: 2px;
-    margin: 10px auto 10px auto;
+    margin: 23px auto -3px auto;
     background-color: #89C249;
     font-size: 24px;
   }
