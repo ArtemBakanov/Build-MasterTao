@@ -422,7 +422,7 @@ section:last-of-type {
   margin-bottom: 56px;
 }
 section.container-fluid {
-  padding: 90px 85px 100px;
+  padding: 55px 20px 100px;
   position: relative;
 }
 section.container-fluid:before {
@@ -921,7 +921,7 @@ footer {
     max-height: 35.4px;
   }
   header .navbar-toggler {
-    padding-right: 14px;
+    padding-right: 20px;
   }
   header .navbar-toggler .hamburger-box {
     height: 27px;
