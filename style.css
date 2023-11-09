@@ -1070,6 +1070,7 @@ footer {
     max-width: 275px;
     font-size: 16px;
     max-height: 44px;
+    margin-bottom: 18px;
   }
   .first-screen .slick-slide {
     height: calc(100vh - 71.97px);
