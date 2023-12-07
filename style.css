@@ -1548,7 +1548,7 @@ footer .container .content-part .links-columns .link-column .footer-link a {
     background-image: url("assets/img/arrow-circle-left 1.png");
   }
   .questions .container .cont-form {
-    max-width: 390px;
+    max-width: 716px;
     width: 100%;
     display: block;
     justify-self: start;
@@ -1568,13 +1568,13 @@ footer .container .content-part .links-columns .link-column .footer-link a {
     filter: drop-shadow(5px 15px 40px rgba(11, 24, 97, 0.32));
   }
   .questions .container .cont-form .question-form .row {
-    max-width: 310px;
+    max-width: 636px;
     margin-left: auto;
     margin-right: auto;
   }
   .questions .container .cont-form .question-form .row .input-box {
     width: 100%;
-    max-width: 310px;
+    max-width: 636px;
     height: 56px;
     border-radius: 10px;
     background: #FFF;
