@@ -509,6 +509,7 @@ section:nth-child(odd) .template-title:after {
   transition: 0.2s;
   font-size: 15px;
   min-width: 160px;
+  cursor: pointer;
 }
 .input-box .fileLabel:hover {
   box-shadow: 0px 0px 4px 2px #E58D35;
@@ -913,6 +914,7 @@ footer .container .content-part .info-column .nav-icons .nav-icon {
   height: 33px;
   border-radius: 50%;
   overflow: hidden;
+  cursor: pointer;
 }
 footer .container .content-part .links-columns {
   margin-right: 81px;
@@ -945,6 +947,12 @@ footer .container .content-part .links-columns .link-column .footer-link a {
   font-weight: 400;
   line-height: 160.5%;
   text-decoration-line: underline;
+}
+footer .container .content-part .links-columns .link-column .footer-link a:hover {
+  color: #E58D35;
+}
+footer .container .content-part .links-columns .link-column .footer-link a:active {
+  color: #E58D35;
 }
 
 .delivery .template-title:after {
