@@ -948,6 +948,7 @@ footer .container .content-part .links-columns .link-column .footer-link a {
   font-weight: 400;
   line-height: 160.5%;
   text-decoration-line: underline;
+  transition: 0.25s;
 }
 footer .container .content-part .links-columns .link-column .footer-link a:hover {
   color: #E58D35;
