@@ -387,6 +387,7 @@ ul li:not([class]):before {
 ul.slick-dots {
   padding: 0;
   margin: 0;
+  margin-bottom: 60px;
 }
 ul.slick-dots > li {
   margin: 0 13px;
@@ -1203,7 +1204,7 @@ footer .container .content-part .links-columns .link-column .footer-link a:activ
   width: 50%;
 }
 .about .container .text-part .template-title {
-  margin-bottom: 65px;
+  margin-bottom: 44px;
 }
 .about .container .text-part .template-title:after {
   background-color: #89C249;
@@ -1449,7 +1450,7 @@ footer .container .content-part .links-columns .link-column .footer-link a:activ
     width: 100%;
   }
   .about .container .text-part .template-title {
-    margin-bottom: 65px;
+    margin-bottom: 25px;
   }
   .about .container .text-part .template-title:after {
     background-color: #89C249;
@@ -1897,7 +1898,7 @@ footer .container .content-part .links-columns .link-column .footer-link a:activ
     justify-content: center;
   }
   section {
-    margin-bottom: 60px;
+    margin-bottom: 54px;
   }
   section.container-fluid .container {
     width: 100%;
